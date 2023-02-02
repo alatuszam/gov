@@ -32,6 +32,7 @@ By funding Confio, the Cosmos Hub asserts its willingness and ability to support
 ## Community Pool Spend
 
 *Assumptions*
+
 All of the following statements are made using the following assumptions: 
 - The ATOM price used in calculations is $15.005, which is the 1 year moving average price of ATOM as of February 2nd. 
 - Proposal 95 has passed, and those 588,000 ATOM have been dispensed  
