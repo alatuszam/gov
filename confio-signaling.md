@@ -1,5 +1,5 @@
 # Summary
-This is a signaling proposal. If it passes, it indicates the community's willingness to raise a community pool spend proposal to support the Confio team in their stewardship of CosmWasm, CosmJS with the ATOM equivalent of $2.5M dispersed in two payments, in accordance with the process outlined below. 
+This is a signaling proposal. If it passes, it indicates the community's willingness to raise a community pool spend proposal to support the Confio team in their stewardship of CosmWasm, CosmJS with the ATOM equivalent of $2.5 dispersed in two payments, in accordance with the process outlined below. 
 
 # Purpose
 
@@ -36,6 +36,7 @@ All of the following statements are made using the following assumptions:
 - The ATOM price used in calculations is $15.005, which is the 1 year moving average price of ATOM as of February 2nd. 
 - Proposal 95 has passed, and those 588,000 ATOM have been dispensed  
 - The calculations used to determine the community pool budget can be found here: https://docs.google.com/spreadsheets/d/1Bb6RZbL4YWe6LdWD7o1-TSuMMCIpbD6X0S1I4vAux4I/edit?usp=sharing
+- In the spreadsheet, the Hub funds Confio's entire yearly expense. A more optimal outcome would be interchain collaboration in which each chain funds a percentage of Confio's needs. 
 
 *Pool Percentage*
 - Funding Confio with the ATOM equivalent of $2.5M from the Cosmos Hub equates to less than 1% of the USD value of the community pool on a monthly basis.
@@ -74,9 +75,9 @@ This proposal is explicitly written as a signaling proposal in order to gauge th
 - If you abstain you signal your desire to contribute to quorum without a preference toward whether the proposal passes or fails.
 
 # Open Questions
+- Should the Hub be the sole patron of the Confio team or should it be an ecosystem wide effort?  
 - What is the best way to liquidate the ATOM?
 - Do ATOM stakeholders believe that using a foundation to act as a funding intermediary is the best approach? 
 - What other areas of the proposal do you have feedback on? 
 - What services would you like to see Confio offer the Hub? 
-- Would you like to see the Hub as the sole patron of the Confio team? What alternatives would you suggest? 
 - Does it fall under the ATOM Accelerator DAO's mandate to share the burden of funding Confio?  
