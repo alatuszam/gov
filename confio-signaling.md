@@ -78,3 +78,4 @@ This proposal is explicitly written as a signaling proposal in order to gauge th
 - Do ATOM stakeholders believe that using a foundation to act as a funding intermediary is the best approach? 
 - What other areas of the proposal do you have feedback on? 
 - What services would you like to see Confio offer the Hub? 
+- Would you like to see the Hub as the sole patron of the Confio team? What alternatives would you suggest? 
