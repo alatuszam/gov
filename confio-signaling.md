@@ -71,6 +71,6 @@ This proposal is explicitly written as a signaling proposal in order to gauge th
 
 # Open Questions
 - What is the best way to liquidate the ATOM?
-- Do ATOM stakeholders believe that using finding a foundation to act as a funding intermediary is the best approach? 
+- Do ATOM stakeholders believe that using a foundation to act as a funding intermediary is the best approach? 
 - What other areas of the proposal do you have feedback on? 
 - What services would you like to see Confio offer the Hub? 
