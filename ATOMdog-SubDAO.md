@@ -75,7 +75,7 @@ A clear accountability language and standard for community pool spend proposals 
 - As an ATOM stakeholder, I want assurance that the sortition process is truly random so that I know that the process isn't corrupted. 
 - As an ATOM stakeholder, I want to see reports about what the watchdog committee does so that I can asses if its fulfilling its mandate. (The committee has the burden to prove its work).
 - As a facilitator, I want to teach sortition-selected candidates how to analyze projects so that they can do their job well, and therefore so can I.  
-- As a facilitator, I don't want to answer the same questions over and over again so that I waste time that could be better spend doing something else.  
+- As a facilitator, I don't want to answer the same questions over and over again so that I can spend time performing higher leverage tasks.  
 - As a facilitator, I want to be compensated for my work so that I'm able to do it to the best of my ability and with full commitment.  
 - As an ATOM stakeholder, I want to publicly raise questions to the watchdog commitee so that I can be sure they are doing their job well.
 - As an ATOM stakeholder, I want to disolve the watchdog committee if they are not living up to their mandate so that the committee doesn't have irreversible power. 
