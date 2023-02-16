@@ -69,7 +69,6 @@ A clear accountability language and standard for community pool spend proposals 
 - As an auditor, I want to be able to fill in a template to present my findings so that I don't have to spend too much energy or time on this process.  
 - As an auditor, I want guidance about how to analyze projects so that I can perform my role well.  
 - As a facilitator, I want to be able to send a form for sortition candidates to fill out so that I can quickly build a pool of sortition candidates without doing too much manual work.  
-- As a facilitator, I want to send a form for sortition candidates to fill out so that I can quickly build a pool of sortition candidates without doing too much manual work.  
 - As an ATOM stakeholder, I want to preserve my privacy when proving that I am a stakeholder so that I can feel safe and secure.  
 - As an ATOM stakeholder, I want to know that projects are being audited by stakeholders with skin in the game so that I can feel more confident in their results.  
 - As a facilitator, I want to randomly select sortition candidates from the sortition pool so that I can invite them to participate in sortition.  
