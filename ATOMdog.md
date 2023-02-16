@@ -12,7 +12,6 @@
 The Cosmos Hub community pool has common-pool-resource attributes but lacks key characteristics relevant to sustainably governing common, such as the capability to monitor and sanction appropriators of the pool. Cosmos stakeholders risk depletion of common resources and coordination failure if these issues are not resolved. 
 
 ### Goals
-*A list of things I am aiming to accomplish with my solution*
 - Develop a pool of verified stakeholders that are willing to participate in the sortition and auditing process
 - Resolve disputes about milestone achievement between community members and pool appropriators
 - Audit the use of the community pool after funding has been released 
@@ -21,7 +20,6 @@ The Cosmos Hub community pool has common-pool-resource attributes but lacks key 
 - Sanction appropriators via reports if they violate their agreed upon mandate 
 
 ### Non-Goals
-*A list of things that I am explicitly calling out that will not be accomplished with this solution.*
 - Coordinate or assess product-work between Cosmos core teams and community funded projects
 - Perform work outside of the Cosmos Hub
 - Assess the value or usefulness of proposals
