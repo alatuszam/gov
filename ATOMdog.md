@@ -2,7 +2,7 @@
 
 ### Problem Statement
 
-**Premise:** Through a community pool spend proposal, the Cosmos community pool can be accessed after an on-chain vote. If the vote passes, funding is immediately transferred from the community pool to the recipient wallet.
+**Premise:** Through a community pool spend proposal, the Cosmos community pool can be accessed via an on-chain vote. If the vote passes, funding is immediately transferred from the community pool to the recipient wallet.
 
 **Problem:** ATOM stakeholders seek transparency and accountability for projects that they fund via the community pool.   
 
