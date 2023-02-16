@@ -1,3 +1,5 @@
+_Update: Confio put this proposal on-chain on Feb 15: https://www.mintscan.io/cosmos/proposals/103_
+
 # Summary
 This is a signaling proposal. If it passes, it indicates the community's willingness to raise a community pool spend proposal to support the Confio team in their stewardship of CosmWasm, CosmJS with the ATOM equivalent of $2.5M dispersed in two payments, in accordance with the process outlined below. 
 
