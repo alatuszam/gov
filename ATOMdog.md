@@ -9,7 +9,7 @@
 **Solution:** A community-facilitated and sortition-oriented watchdog committee can provide a viable and easily accessible solution for holding projects accountable for the appropriation of Cosmos Hub common resources.   
 
 ### One-liner
-The Cosmos Hub community pool has common-pool-resource attributes but lacks key characteristics relevant to sustainably governing common, such as the capability to monitor and sanction appropriators of the pool. Cosmos stakeholders risk depletion of common resources and coordination failure if these issues are not resolved. 
+The Cosmos Hub community pool has common-pool-resource attributes but lacks key characteristics relevant to sustainably governing commons, such as the capability to monitor and sanction appropriators of the pool. Cosmos stakeholders risk depletion of common resources and coordination failure if these issues are not resolved. 
 
 ### Goals
 - Develop a pool of verified stakeholders that are willing to participate in the sortition and auditing process
