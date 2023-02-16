@@ -6,7 +6,7 @@
 
 **Problem:** ATOM stakeholders seek transparency and accountability for projects that they fund via the community pool.   
 
-**Solution:** A community facilitated and sortition oriented watchdog committee can provide a viable and easily accessible solution for holding projects accountable for the employment of Cosmos Hub common resources.   
+**Solution:** A community-facilitated and sortition-oriented watchdog committee can provide a viable and easily accessible solution for holding projects accountable for the appropriation of Cosmos Hub common resources.   
 
 ### One-liner
 The Cosmos Hub community pool has common-pool-resource attributes but lacks key characteristics relevant to sustainably governing common, such as the capability to monitor and sanction appropriators of the pool. Cosmos stakeholders risk depletion of common resources and coordination failure if these issues are not resolved. 
