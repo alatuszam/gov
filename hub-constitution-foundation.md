@@ -17,7 +17,7 @@ The Cosmos Hub is a network of agents who share common purpose, and are the only
 ## On-chain Governance:
 - Cosmos Hub citizens use on-chain governance to reach consensus about governance decisions.
 - The on-chain governance process is determined by the binary run by >66% of the Cosmos Hub validators. 
-- Cosmos citizens can influence on-chain governance via a software-upgrade proposal or a gov-param proposal. 
+- Cosmos citizens can alter on-chain governance processes via a software-upgrade proposal or a gov-param proposal. 
 - On-chain governance is the outcome of off-chain governance. 
 
 ## Off-chain Governance: 
