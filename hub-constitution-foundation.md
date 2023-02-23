@@ -1,5 +1,5 @@
 # Preamble: 
-The Cosmos Hub is a network of agents who share common purpose, and are the only ones who hold the power to execute actions that manage a set of shared resources. ([Anticapture](https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ))
+"[The Cosmos Hub] is a network of [ATOM holders] who share common purpose, and are the only ones who hold the power to execute actions that manage a set of shared resources." ([Anticapture](https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ))
 
 # The Interchain: 
 - The Interchain is a network of state-machines connected by the Inter-Blockchain Communication protocol (IBC).
